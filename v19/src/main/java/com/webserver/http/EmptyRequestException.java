@@ -4,7 +4,7 @@ package com.webserver.http;
  * 空请求异常
  * 当HttpRequest解析请求时发现此请求为空请求
  * 则会抛出该异常
- *
+ *111111111
  */
 public class EmptyRequestException extends Exception {
     public EmptyRequestException() {
